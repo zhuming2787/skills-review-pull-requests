@@ -19,24 +19,24 @@ _本课程我们将学习如何在 GitHub 上进行协同工作。_
 </header>
 
 <!--
-  <<< Author notes: Step 5 >>>
+  <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: 应用修改建议
+## Step 6: 合并你的 Pull Request
 
-_你已经学会了如何提出修改建议! :partying_face:_
+_离完成就差最后一步啦! :heart:_
 
-接下来我们来看看，如何一键将他人的[建议应用](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request)到你的 Pull Request 中。其实这个过程非常简单，GitHub 会自动帮你完成提交。
+现在你可以[合并（merge）](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)你的 Pull Request 了。
+这一步会把你刚才的修改正式整合到主分支中。
 
-### :keyboard: 实操环节：应用修改建议
+### :keyboard: 实操环节
 
-1. 点击 **Commit suggestion（提交建议）**。
-2. 输入一条简短的提交说明。
-3. 点击 **Commit changes（提交更改）**。
-4. 等待大约 20 秒，然后刷新此页面（也就是你正在阅读的教程页）。
-   [GitHub Actions](https://docs.github.com/en/actions) 会自动检测并进入下一步。
+1. 点击 **Merge pull request**。
+2. 删除分支 `update-game`（可选）。
+3. 等待大约 20 秒，然后刷新此页面（也就是你正在阅读的教程页）。
+   [GitHub Actions](https://docs.github.com/en/actions) 会自动检测到操作并跳转到下一步。
 
 <footer>
 
