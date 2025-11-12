@@ -19,24 +19,30 @@ _本课程我们将学习如何在 GitHub 上进行协同工作。_
 </header>
 
 <!--
-  <<< Author notes: Step 6 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 6: 合并你的 Pull Request
+## 完成
 
-_离完成就差最后一步啦! :heart:_
+_你已经顺利完成了本课程!_
 
-现在你可以[合并（merge）](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)你的 Pull Request 了。
-这一步会把你刚才的修改正式整合到主分支中。
+<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
-### :keyboard: 实操环节
+下面是课程内容回顾：
 
-1. 点击 **Merge pull request**。
-2. 删除分支 `update-game`（可选）。
-3. 等待大约 20 秒，然后刷新此页面（也就是你正在阅读的教程页）。
-   [GitHub Actions](https://docs.github.com/en/actions) 会自动检测到操作并跳转到下一步。
+- 学会了如何为 Pull Request 分配审查人
+- 学会了如何对 Pull Request 进行审查
+- 学会了如何提出修改建议
+- 学会了如何应用别人提出的修改建议
+
+### 接下来可以尝试：
+
+* 给项目添加一个 [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) 文件，自动为 Pull Request 指定审查人
+* 欢迎在[讨论区](https://github.com/orgs/skills/discussions/categories/review-pull-requests)分享你的学习心得
+* 再试试其他 [GitHub Skills](https://github.com/skills) 课程
+* 阅读 [GitHub 入门指南](https://docs.github.com/en/get-started)
+* 想找项目参与？看看 [GitHub Explore](https://github.com/explore) 吧 🚀
 
 <footer>
 
